@@ -23,7 +23,7 @@ public class TravelDetails {
 
 	 @Given("^Home Page should be open$")
 	 public void user_already_on_login_page() {
-	 System.setProperty("webdriver.chrome.driver","C:\\Users\\pkumari02\\Desktop\\Selenium\\New folder\\chromedriver.exe");
+	 System.setProperty("webdriver.chrome.driver","New folder\\chromedriver.exe");
 	 driver = new ChromeDriver();
 	 driver.get("https://www.goibibo.com/");
 	 }

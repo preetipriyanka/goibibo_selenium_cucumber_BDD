@@ -12,7 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 12839055896,
+              "duration": 20806096431,
               "status": "passed"
             },
             "line": 5,
@@ -24,7 +24,7 @@
           },
           {
             "result": {
-              "duration": 2521592941,
+              "duration": 17776914,
               "status": "passed"
             },
             "line": 6,
@@ -36,7 +36,7 @@
           },
           {
             "result": {
-              "duration": 475126253,
+              "duration": 4341758812,
               "status": "passed"
             },
             "line": 7,
@@ -48,7 +48,7 @@
           },
           {
             "result": {
-              "duration": 2105689587,
+              "duration": 11403805643,
               "status": "passed"
             },
             "line": 8,
@@ -60,7 +60,7 @@
           },
           {
             "result": {
-              "duration": 1769464986,
+              "duration": 850506431,
               "status": "passed"
             },
             "line": 9,
@@ -72,7 +72,7 @@
           },
           {
             "result": {
-              "duration": 371846392,
+              "duration": 311062571,
               "status": "passed"
             },
             "line": 10,
@@ -84,7 +84,7 @@
           },
           {
             "result": {
-              "duration": 281819640,
+              "duration": 275652602,
               "status": "passed"
             },
             "line": 11,
@@ -96,7 +96,7 @@
           },
           {
             "result": {
-              "duration": 6369755346,
+              "duration": 29806555947,
               "status": "passed"
             },
             "line": 12,
@@ -108,7 +108,7 @@
           },
           {
             "result": {
-              "duration": 453688688,
+              "duration": 406074531,
               "status": "passed"
             },
             "line": 13,
@@ -120,7 +120,7 @@
           },
           {
             "result": {
-              "duration": 479213573,
+              "duration": 470279241,
               "status": "passed"
             },
             "line": 14,
@@ -132,7 +132,7 @@
           },
           {
             "result": {
-              "duration": 12939758008,
+              "duration": 1678578482,
               "status": "passed"
             },
             "line": 15,
@@ -144,7 +144,7 @@
           },
           {
             "result": {
-              "duration": 1118095404,
+              "duration": 752077359,
               "status": "passed"
             },
             "line": 16,
@@ -156,7 +156,7 @@
           },
           {
             "result": {
-              "duration": 3380864171,
+              "duration": 8092109114,
               "status": "passed"
             },
             "line": 17,
@@ -168,7 +168,7 @@
           },
           {
             "result": {
-              "duration": 3445639406,
+              "duration": 4339693442,
               "status": "passed"
             },
             "line": 18,
@@ -180,7 +180,7 @@
           },
           {
             "result": {
-              "duration": 2215973207,
+              "duration": 2660189508,
               "status": "passed"
             },
             "line": 19,
@@ -197,6 +197,6 @@
     "description": "",
     "id": "travel-details-feature",
     "keyword": "Feature",
-    "uri": "C:/learningSelenium/goibibo.com/src/main/java/Feature/TravelDetails.feature"
+    "uri": "src/main/java/Feature/TravelDetails.feature"
   }
 ]

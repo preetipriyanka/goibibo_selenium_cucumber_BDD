@@ -1,4 +1,4 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("C:/learningSelenium/goibibo.com/src/main/java/Feature/TravelDetails.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("src/main/java/Feature/TravelDetails.feature");
 formatter.feature({
   "line": 1,
   "name": "Travel Details Feature",
@@ -93,105 +93,105 @@ formatter.match({
   "location": "TravelDetails.user_already_on_login_page()"
 });
 formatter.result({
-  "duration": 12839055896,
+  "duration": 20806096431,
   "status": "passed"
 });
 formatter.match({
   "location": "TravelDetails.title_of_website()"
 });
 formatter.result({
-  "duration": 2521592941,
+  "duration": 17776914,
   "status": "passed"
 });
 formatter.match({
   "location": "TravelDetails.max_win()"
 });
 formatter.result({
-  "duration": 475126253,
+  "duration": 4341758812,
   "status": "passed"
 });
 formatter.match({
   "location": "TravelDetails.src_details()"
 });
 formatter.result({
-  "duration": 2105689587,
+  "duration": 11403805643,
   "status": "passed"
 });
 formatter.match({
   "location": "TravelDetails.des_details()"
 });
 formatter.result({
-  "duration": 1769464986,
+  "duration": 850506431,
   "status": "passed"
 });
 formatter.match({
   "location": "TravelDetails.date_details()"
 });
 formatter.result({
-  "duration": 371846392,
+  "duration": 311062571,
   "status": "passed"
 });
 formatter.match({
   "location": "TravelDetails.search()"
 });
 formatter.result({
-  "duration": 281819640,
+  "duration": 275652602,
   "status": "passed"
 });
 formatter.match({
   "location": "TravelDetails.flight_details_page_verification()"
 });
 formatter.result({
-  "duration": 6369755346,
+  "duration": 29806555947,
   "status": "passed"
 });
 formatter.match({
   "location": "TravelDetails.Sorted_by_price()"
 });
 formatter.result({
-  "duration": 453688688,
+  "duration": 406074531,
   "status": "passed"
 });
 formatter.match({
   "location": "TravelDetails.Book()"
 });
 formatter.result({
-  "duration": 479213573,
+  "duration": 470279241,
   "status": "passed"
 });
 formatter.match({
   "location": "TravelDetails.travel_protect()"
 });
 formatter.result({
-  "duration": 12939758008,
+  "duration": 1678578482,
   "status": "passed"
 });
 formatter.match({
   "location": "TravelDetails.select_title()"
 });
 formatter.result({
-  "duration": 1118095404,
+  "duration": 752077359,
   "status": "passed"
 });
 formatter.match({
   "location": "TravelDetails.Proceed()"
 });
 formatter.result({
-  "duration": 3380864171,
+  "duration": 8092109114,
   "status": "passed"
 });
 formatter.match({
   "location": "TravelDetails.Payment()"
 });
 formatter.result({
-  "duration": 3445639406,
+  "duration": 4339693442,
   "status": "passed"
 });
 formatter.match({
   "location": "TravelDetails.close_browser()"
 });
 formatter.result({
-  "duration": 2215973207,
+  "duration": 2660189508,
   "status": "passed"
 });
 });

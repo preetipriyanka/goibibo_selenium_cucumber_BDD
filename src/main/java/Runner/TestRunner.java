@@ -7,7 +7,7 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "C:\\learningSelenium\\goibibo.com\\src\\main\\java\\Feature\\TravelDetails.feature",
+        features = "src\\main\\java\\Feature\\TravelDetails.feature",
         glue = {"StepDefinition"},
         format= {"pretty","html:test-outout", "json:json_output/cucumber.json", "junit:junit_xml/cucumber.xml"}
 )

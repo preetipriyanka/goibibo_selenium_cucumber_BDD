@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="50.767583">
-    <testcase classname="Travel Details Feature" name="Enter Travel Details" time="50.767583">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="86.212217">
+    <testcase classname="Travel Details Feature" name="Enter Travel Details" time="86.212217">
         <system-out>
             <![CDATA[Given Home Page should be open..............................................passed
 When Page Title is Goibibo-XXX..............................................passed
