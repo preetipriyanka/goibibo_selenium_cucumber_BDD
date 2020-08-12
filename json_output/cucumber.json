@@ -1,0 +1,202 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Enter Travel Details",
+        "description": "",
+        "id": "travel-details-feature;enter-travel-details",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 12839055896,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Home Page should be open",
+            "match": {
+              "location": "TravelDetails.user_already_on_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2521592941,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Page Title is Goibibo-XXX",
+            "match": {
+              "location": "TravelDetails.title_of_website()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 475126253,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Maximize the window",
+            "match": {
+              "location": "TravelDetails.max_win()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2105689587,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Source is entered",
+            "match": {
+              "location": "TravelDetails.src_details()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1769464986,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "destination is entered",
+            "match": {
+              "location": "TravelDetails.des_details()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 371846392,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Booking Date Details are selected",
+            "match": {
+              "location": "TravelDetails.date_details()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 281819640,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Search button is clicked",
+            "match": {
+              "location": "TravelDetails.search()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6369755346,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Flight details page should get opened",
+            "match": {
+              "location": "TravelDetails.flight_details_page_verification()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 453688688,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Flight Search should be sorted by Highest price",
+            "match": {
+              "location": "TravelDetails.Sorted_by_price()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 479213573,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Click on first Book Button",
+            "match": {
+              "location": "TravelDetails.Book()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 12939758008,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Add Travel Protection",
+            "match": {
+              "location": "TravelDetails.travel_protect()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1118095404,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Enter the details of Traveller",
+            "match": {
+              "location": "TravelDetails.select_title()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3380864171,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Click on Proceed",
+            "match": {
+              "location": "TravelDetails.Proceed()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3445639406,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Select the wallet option for payment",
+            "match": {
+              "location": "TravelDetails.Payment()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2215973207,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Browser should be closed",
+            "match": {
+              "location": "TravelDetails.close_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Travel Details Feature",
+    "description": "",
+    "id": "travel-details-feature",
+    "keyword": "Feature",
+    "uri": "C:/learningSelenium/goibibo.com/src/main/java/Feature/TravelDetails.feature"
+  }
+]

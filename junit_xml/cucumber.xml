@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="50.767583">
+    <testcase classname="Travel Details Feature" name="Enter Travel Details" time="50.767583">
+        <system-out>
+            <![CDATA[Given Home Page should be open..............................................passed
+When Page Title is Goibibo-XXX..............................................passed
+Then Maximize the window....................................................passed
+Then Source is entered......................................................passed
+And destination is entered..................................................passed
+And Booking Date Details are selected.......................................passed
+And Search button is clicked................................................passed
+Then Flight details page should get opened..................................passed
+And Flight Search should be sorted by Highest price.........................passed
+Then Click on first Book Button.............................................passed
+Then Add Travel Protection..................................................passed
+Then Enter the details of Traveller.........................................passed
+And Click on Proceed........................................................passed
+Then Select the wallet option for payment...................................passed
+Then Browser should be closed...............................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
